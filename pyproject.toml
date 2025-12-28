@@ -1,0 +1,26 @@
+[project]
+name = "netadapterpriority"
+version = "1.0.0"
+description = "GUI application to manage network adapter priority."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "KnightlyGains" }
+]
+dependencies = [
+  "flet>=0.80.0"
+]
+
+[dependency-groups]
+dev = [
+  "flet[all]>=0.80.0",
+]
+
+[tool.flet]
+org = "com.knightlygains"
+product = "netadapterpriority"
+company = "KnightlyGains"
+copyright = "Copyright (C) 2026 by KnightlyGains"
+
+[tool.flet.app]
+path = "src"
