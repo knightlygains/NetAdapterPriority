@@ -8,7 +8,7 @@ authors = [
     { name = "KnightlyGains" }
 ]
 dependencies = [
-  "flet>=0.80.0"
+  "flet[all]>=0.80.0",
 ]
 
 [dependency-groups]
