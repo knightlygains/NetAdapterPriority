@@ -5,11 +5,11 @@
 
 This app is designed to make adjusting the priority of your network adapters much more accessible and without the need of typing in powershell commands.
 
+<img src="screenshot.png" alt="Netadapterpriority screenshot" width="800" />
+
 ## Download
 
-*(Not available yet. Waiting on flet fix for Windows Build cmake windows pathing error)*
-
-The latest release can be found on the right in releases. Simply extract the root folder wherever you like and run the executable.
+The latest release can be found on the right in releases. Simply extract the root folder wherever you like and run the executable **AS ADMINISTRATOR**.
 
 # Development
 
